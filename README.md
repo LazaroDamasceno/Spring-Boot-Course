@@ -13,4 +13,4 @@ Check if you have a JDK installed on you PC. If so, check if the version is the 
 Open the folder on your prefered IDE.
 <br>
 <br>
-To run the application, type on the terminal "./mvnw clean spring-boot:run"
+To run the application, type on the terminal "./mvnw clean spring-boot:run".
